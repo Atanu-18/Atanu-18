@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu-18&label=Profile%20views&color=0e75b6&style=flat" alt="atanu-18" /> </p>
 
-- 🌱 I’m currently learning **fullstack webdevelopment, DSA(C), C++, Python, DAA**
+- 🌱 I’m currently learning **fullstack webdevelopment, DSA(C), C++, Python, DAA, JAVA**
 
 - 💬 Ask me about **html,css,C, TAILWIND CSS, React js**
 
